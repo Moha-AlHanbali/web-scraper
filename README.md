@@ -15,4 +15,3 @@
 ## PR
 
 - [PR1](https://github.com/Moha-AlHanbali/web-scraper/pull/1)
-
