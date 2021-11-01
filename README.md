@@ -10,7 +10,7 @@
 
 ## Change log
 
-- web-scraper v1 "feat: completed class13" 01-11-2021
+- web-scraper v1 "feat: completed class17" 01-11-2021
 
 ## PR
 
